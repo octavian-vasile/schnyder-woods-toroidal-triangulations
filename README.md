@@ -1,5 +1,7 @@
 # Schnyder Woods on Toroidal Triangulations
 
+[![DOI](https://zenodo.org/badge/1327134217.svg)](https://doi.org/10.5281/zenodo.21843698)
+
 **[Read the paper (PDF)](paper.pdf)**
 
 Undergraduate research project, École Polytechnique, Feb–Jun 2026.
