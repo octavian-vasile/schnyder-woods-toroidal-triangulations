@@ -1,4 +1,4 @@
-# Schnyder Woods on Toroidal Triangulations
+# Structural Properties of Schnyder Woods on Planar and Toroidal Triangulations
 
 [![DOI](https://zenodo.org/badge/1327134217.svg)](https://doi.org/10.5281/zenodo.21843698)
 
